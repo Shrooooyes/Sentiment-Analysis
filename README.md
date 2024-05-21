@@ -63,6 +63,11 @@ pip3 install pandas nltk scikit-learn
    - After training the model, you can use `test_model.py` script to make predictions on new text inputs.
    - Follow the instructions provided in the script to interact with the trained model and input your text for sentiment prediction.
 
+## Demo
+
+- **Positive and Negative Comment Output**: ![Screenshot](https://github.com/Shrooooyes/Sentiment-Analysis/assets/112112961/8b3b1dd4-97b5-4172-8471-b3482e1c441f)
+
+
 ## Credits
 
 - **Author**: [Shreyash](https://github.com/Shrooooyes/)
